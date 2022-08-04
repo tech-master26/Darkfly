@@ -2,18 +2,19 @@
     DarkFly tools 2019.1
     ------------
 
-    Developer/Author    : Ms.ambari (Muslim ambari)
+    Developer/Author    : MD Sirajul islam (Android Tips-&-Tricks)
     Supported platform  : all Linux distro and termux(android)
-    Company             : MahesaSystem
-    Email               : ambari.developer@gmail.com
-    YouTube             : Ms.ambari
-    Github              : /Ranginang67
-    Termux Tested on    : Samsung galaxy J5 prime 8.0
+    Company             : BasicHacker
+    Email               : whiteuser73@gmail.com
+    YouTube             : Android tips-&-Trick's
+    Github              : /sirajul26
+    Termux Tested on    : Htc Desire 12s 8.0
     Linux Tested on     : Ubuntu Gnome 16.04 LTS
 
     ------------
     DarkFly tools 2019.1 is a open source, free, and automatic tools.
 """
+    
 
 banner_list = [
     """
